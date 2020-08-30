@@ -37,7 +37,9 @@
   "dependencies": {
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
+    "nodemon": "^2.0.4",
     "popper.js": "^1.16.1",
-    "tilt.js": "^1.2.1"
+    "tilt.js": "^1.2.1",
+    "typed.js": "^2.0.11"
   }
 }
